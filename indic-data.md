@@ -7,4 +7,8 @@
 - https://www.cloudways.com/blog/trending-products-to-sell/
 - https://360.shiprocket.in/blog/most-demanded-selling-products-online-india/
 - https://builtwith.com/ecommerce/bangladesh/
+- https://imtips.co/best-selling-amazon-india-2018.html
+- https://www.sellerapp.com/blog/wp-content/uploads/2019/04/Top-Selling-Iterms-On-Amazon.pdf
+- https://www.kaggle.com/nehaprabhavalkar/indian-products-on-amazon
+- https://www.kaggle.com/promptcloud/product-listing-on-amazon-india
 
