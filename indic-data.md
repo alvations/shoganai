@@ -12,3 +12,6 @@
 - https://www.kaggle.com/nehaprabhavalkar/indian-products-on-amazon
 - https://www.kaggle.com/promptcloud/product-listing-on-amazon-india
 
+
+
+https://superuser.com/questions/336219/how-do-i-split-a-zip-file-into-multiple-segments
